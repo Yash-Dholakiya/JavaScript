@@ -17,7 +17,7 @@ let isLoggedIn = "yash"
 let booleanIsLoggenedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggenedIn);
 
-// 1 => true; 0 => false
+// 1 => true; 0 => false boolean
 // "" => false
 // "yash" => true
 
