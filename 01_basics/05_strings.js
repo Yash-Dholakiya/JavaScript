@@ -16,7 +16,7 @@ const gameName = new String('hitesh-hc-com')
 console.log(gameName.charAt(2));
 console.log(gameName.indexOf("s"));
 
-const Newstring = gameName.substring(0,4)
+const Newstring = gameName.substring(0,4) //start & end
 console.log(Newstring);
 
 const anotherString = gameName.slice(-5,4)
@@ -24,7 +24,7 @@ console.log(anotherString);
 
 const newStringOne = "     Yash     "
 console.log(newStringOne);
-console.log(newStringOne.trim());
+console.log(newStringOne.trim()); //remove extra space
 
 const url = "https//hitesh.com/hitesh%20choudhary"
 
